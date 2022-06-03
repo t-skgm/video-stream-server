@@ -5,7 +5,7 @@ readonly PROJECT_ID=music-coop
 readonly GCP_ACCOUNT=skgm0301@gmail.com
 readonly GOOGLE_COMPUTE_ZONE=asia-northeast1-a
 readonly DOCKER_TAG="gcr.io/${PROJECT_ID}/${SEVICE_NAME}:latest"
-readonly SERVICE_STATIC_IP="35.243.98.206"
+readonly SERVICE_STATIC_IP="x.x.x.x"
 # n1-standard-1 or f1-micro or something
 readonly GCP_MACHINE_TYPE=n1-standard-1
 
